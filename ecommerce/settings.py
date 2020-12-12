@@ -26,7 +26,7 @@ SECRET_KEY = getenv('DJANGO_SECRET_KEY', 'n0t-s0-s3cret-def4ault')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['djangoecommercepro.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['jose1101.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
